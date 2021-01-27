@@ -1,5 +1,7 @@
 Reproduction repo for issues with Storybook and Angular using `strictTemplates` compiler options.
 
+Link to issue in Storybook repo: https://github.com/storybookjs/storybook/issues/13748
+
 # Getting started
 * clone the repo
 * `npm install`
